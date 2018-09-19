@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "412418868300",
+    "firebase_url": "https://student-info-377ad.firebaseio.com",
+    "project_id": "student-info-377ad",
+    "storage_bucket": "student-info-377ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412418868300:android:7cc83cc2f53ed4b5",
+        "android_client_info": {
+          "package_name": "com.hod.fahim.studentinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412418868300-dvasp4vdq0gp71nsh1uj7piafumdvsvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hod.fahim.studentinfo",
+            "certificate_hash": "6ff3ef1f0dc10fbea7e8f3a86695be02279c0afd"
+          }
+        },
+        {
+          "client_id": "412418868300-klng3582cmqq47ocjihuo4t9o3qqo4ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3LaeHc_P7xvAViIT_UP75TjMtScPs8SI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412418868300-klng3582cmqq47ocjihuo4t9o3qqo4ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
